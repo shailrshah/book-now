@@ -33,18 +33,10 @@ target/
 .idea/**/dictionaries
 .idea/**/shelf
 
-# Sensitive or high-churn files
-.idea/**/dataSources/
-.idea/**/dataSources.ids
-.idea/**/dataSources.local.xml
-.idea/**/sqlDataSources.xml
-.idea/**/dynamic.xml
-.idea/**/uiDesigner.xml
-.idea/**/dbnavigator.xml
+# idea folder
+.idea/
 
-# Gradle
-.idea/**/gradle.xml
-.idea/**/libraries
+book-now.iml
 
 # CMake
 cmake-build-debug/
@@ -65,8 +57,6 @@ out/
 # JIRA plugin
 atlassian-ide-plugin.xml
 
-# Cursive Clojure plugin
-.idea/replstate.xml
 
 # Crashlytics plugin (for Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml
@@ -74,7 +64,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-# Editor-based Rest Client
-.idea/httpRequests
 
 
